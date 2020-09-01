@@ -1,0 +1,29 @@
+.navbar {
+  height: 70px;
+  width: 100%;
+  position: absolute;
+  background-color: blue;
+  left: 0;
+  top: 0;
+}
+
+.navbar-brand {
+  color: white !important;
+}
+
+.nav-link {
+  color: white !important;
+}
+
+.bg {
+  background-color: #010A75;
+  color: white;
+}
+
+.ml-auto {
+  margin-left: auto !important;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+/*# sourceMappingURL=header.css.map */

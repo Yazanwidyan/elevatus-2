@@ -1,0 +1,38 @@
+.card-size {
+  width: 16rem;
+}
+
+.card {
+  border: none;
+  margin: 8px;
+}
+
+.card .card-body-main {
+  padding: .7rem;
+  position: relative;
+  border-radius: 10px;
+  border: 1px solid rgba(190, 190, 190, 0.2);
+}
+
+.card .card-body-main:hover {
+  -webkit-box-shadow: 0px 0px 17px 3px #ebebeb;
+  box-shadow: 0px 0px 17px 3px #ebebeb;
+  border: 1px solid #A3D0F0;
+  background-color: #f7f9fb;
+  -webkit-transition: .1s ease-in;
+  transition: .1s ease-in;
+}
+
+.card .center {
+  text-align: center;
+}
+
+.card .main-card-text {
+  font-size: 11px;
+}
+
+.card .btn-primary {
+  background-color: #010A75;
+  border-color: #010A75;
+}
+/*# sourceMappingURL=cards.css.map */

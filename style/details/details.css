@@ -1,0 +1,44 @@
+.details-card-header {
+  background-color: white;
+}
+
+.details-card-body {
+  border-radius: 0 !important;
+  -webkit-box-shadow: 0px 0px 17px 3px #ebebeb;
+  box-shadow: 0px 0px 17px 3px #ebebeb;
+  padding: 25px 50px 25px 50px !important;
+}
+
+ul {
+  padding-left: 0;
+}
+
+ul li {
+  list-style: none;
+}
+
+.btn-details {
+  width: 20%;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+
+.mp-5 {
+  margin-top: 50px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.project-image {
+  width: 423px;
+  height: auto;
+  margin-left: 36px;
+}
+/*# sourceMappingURL=details.css.map */
